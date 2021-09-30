@@ -7,3 +7,8 @@ as well as common practices of software engineering.
 This article walks you through the breakdown of all the tasks associated with
 software engineering projects of any scale as well as linking to different methodologies of
 tackling such tasks like agile.
+
+
+#Comment from Farhan Mashud
+
+I really enjoyed reading this article because it really goes in depth on a topic that is broad. It also inclues how it is taught in the education space as well as its use in large scale projects, which was all interesting to read.
